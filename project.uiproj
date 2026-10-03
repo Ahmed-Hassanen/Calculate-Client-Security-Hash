@@ -1,0 +1,6 @@
+{
+  "Name": "Calculate_Client_Security_Hash_CrashCourse",
+  "ProjectType": "Process",
+  "Description": "UiPath Crash Course 2022",
+  "MainFile": "Main.xaml"
+}
